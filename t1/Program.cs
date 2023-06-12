@@ -6,7 +6,9 @@
  * nimi ja ikä. Tulosta Person-olion 
  * tiedot konsoliin.
 */
+using MyClassLibrary;
 using t1;
+
 
 Person objectPerson = new Person();
 objectPerson.SetName("Teppo Testi");
@@ -24,3 +26,5 @@ objectPerson2.Age = 24;
 objectPerson2.Name = "Matti Virta";
 Console.WriteLine("Person2 nimi=" + objectPerson2.Name);
 Console.WriteLine("Person2 ikä="+objectPerson2.Age);
+
+MyPerson objectMyPerson = new MyPerson();

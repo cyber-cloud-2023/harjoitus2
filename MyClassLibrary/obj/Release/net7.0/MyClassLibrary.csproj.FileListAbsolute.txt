@@ -1,0 +1,12 @@
+C:\codes\cyber_cloud\harjoitus2\MyClassLibrary\bin\Release\net7.0\MyClassLibrary.deps.json
+C:\codes\cyber_cloud\harjoitus2\MyClassLibrary\bin\Release\net7.0\MyClassLibrary.dll
+C:\codes\cyber_cloud\harjoitus2\MyClassLibrary\bin\Release\net7.0\MyClassLibrary.pdb
+C:\codes\cyber_cloud\harjoitus2\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.csproj.AssemblyReference.cache
+C:\codes\cyber_cloud\harjoitus2\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\codes\cyber_cloud\harjoitus2\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.AssemblyInfoInputs.cache
+C:\codes\cyber_cloud\harjoitus2\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.AssemblyInfo.cs
+C:\codes\cyber_cloud\harjoitus2\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\codes\cyber_cloud\harjoitus2\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.dll
+C:\codes\cyber_cloud\harjoitus2\MyClassLibrary\obj\Release\net7.0\refint\MyClassLibrary.dll
+C:\codes\cyber_cloud\harjoitus2\MyClassLibrary\obj\Release\net7.0\MyClassLibrary.pdb
+C:\codes\cyber_cloud\harjoitus2\MyClassLibrary\obj\Release\net7.0\ref\MyClassLibrary.dll
