@@ -16,3 +16,5 @@ car.Accelerate((float)12.5);
 //tyyppiä
 //car.Accelerate(12.5);
 Console.WriteLine("Kiihdytyksen jälkeen nopeus = " + car.Speed);
+car.Brake((float)25);
+Console.WriteLine("Jarrutuksen jälkeen nopeus = " + car.Speed);

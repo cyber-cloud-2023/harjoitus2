@@ -10,11 +10,14 @@ namespace t2
     {
         public String Brand { get; set; }
         public float Speed { get; set; }    
-        public void Accelerate(double value)
+        public void Accelerate(float value)
         {
             Speed = Speed + value;
             //tai 
             //Speed += value;
+        }
+        public void Brake(float value) { 
+            Speed=Speed - value;
         }
     }
 }
